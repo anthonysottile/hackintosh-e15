@@ -1,0 +1,1 @@
+Followed https://dortania.github.io/OpenCore-Install-Guide/installer-guide/windows-install.html to get macOS
