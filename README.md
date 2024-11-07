@@ -9,3 +9,4 @@ Day 2: Begin compiling items for OpenCore usb using the dortania guide at https:
 Day 3: Realize I need to map the USB ports but device has no OS installed
 - Install Windows for USB mapping
 - Finish grabbing files for OpenCore usb setup and start plist setup
+- Finish USB setup and begin install of macOS Sonoma on Thinkpad E15
